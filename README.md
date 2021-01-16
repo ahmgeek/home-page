@@ -1,2 +1,1 @@
-# The test
-![](look.png)
+# Home page
