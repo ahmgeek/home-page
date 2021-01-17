@@ -4,7 +4,7 @@ html {
   -webkit-font-smoothing: antialiased;
   overflow-x: hidden;
 
-  background: radial-gradient(50% 50% at 50% 50%, #2B3760 0%, #0B1023 100%), #FFFFFF;
+  background: radial-gradient(50% 50% at 50% 50%, #151616 0%, #0B1023 100%), #FFFFFF;
 }
 
 main {
